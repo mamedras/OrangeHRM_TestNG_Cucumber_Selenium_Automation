@@ -1,0 +1,97 @@
+01:31:05.235 [main] INFO  - Opening website
+01:31:20.691 [main] INFO  - opening the browser
+01:31:20.720 [main] INFO  - Type invalid credentials
+01:31:28.795 [main] INFO  - capture failed testcases
+01:31:28.969 [main] INFO  - opening a new window
+01:31:28.969 [main] INFO  - capture failed testcases
+01:31:34.577 [main] INFO  - Type valid credentials
+01:31:35.031 [main] INFO  - capture failed testcases
+01:31:35.035 [main] INFO  - we are on the dashboard
+01:31:35.045 [main] INFO  - capture failed testcases
+01:31:35.050 [main] INFO  - type ended
+01:31:37.254 [main] INFO  - report file created
+01:31:58.036 [main] INFO  - login dashboard
+01:32:02.079 [main] INFO  - capture failed testcases
+01:32:04.215 [main] DEBUG - Save core properties part
+01:32:04.215 [main] DEBUG - Save content types part
+01:32:04.470 [main] DEBUG - Save package relationships
+01:32:04.485 [main] DEBUG - Save part 'docProps/app.xml'
+01:32:04.501 [main] DEBUG - Save part 'docProps/core.xml'
+01:32:04.516 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:32:04.516 [main] DEBUG - Save part 'xl/styles.xml'
+01:32:04.516 [main] DEBUG - Save part 'xl/workbook.xml'
+01:32:04.525 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:32:04.535 [main] DEBUG - Save content types part
+01:32:04.535 [main] DEBUG - Save package relationships
+01:32:04.544 [main] DEBUG - Save part 'docProps/app.xml'
+01:32:04.544 [main] DEBUG - Save part 'docProps/core.xml'
+01:32:04.548 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:32:04.548 [main] DEBUG - Save part 'xl/styles.xml'
+01:32:04.548 [main] DEBUG - Save part 'xl/workbook.xml'
+01:32:04.555 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:32:04.555 [main] INFO  - capture failed testcases
+01:32:12.266 [main] INFO  - heading to info page
+01:32:12.268 [main] INFO  - capture failed testcases
+01:32:57.195 [main] INFO  - modify the personal info
+01:33:07.569 [main] INFO  - capture failed testcases
+01:33:16.788 [main] INFO  - upload the file
+01:33:16.788 [main] INFO  - capture failed testcases
+01:33:29.814 [main] INFO  - upadte the profile picture
+01:33:29.814 [main] INFO  - capture failed testcases
+01:33:30.635 [main] INFO  - report file created
+01:33:39.802 [main] INFO  - browser opened
+01:33:42.147 [main] INFO  - username and password entered
+01:33:49.315 [main] DEBUG - Save core properties part
+01:33:49.315 [main] DEBUG - Save content types part
+01:33:49.315 [main] DEBUG - Save package relationships
+01:33:49.325 [main] DEBUG - Save part 'docProps/app.xml'
+01:33:49.325 [main] DEBUG - Save part 'docProps/core.xml'
+01:33:49.330 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:33:49.330 [main] DEBUG - Save part 'xl/styles.xml'
+01:33:49.330 [main] DEBUG - Save part 'xl/workbook.xml'
+01:33:49.335 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:33:49.340 [main] DEBUG - Save content types part
+01:33:49.341 [main] DEBUG - Save package relationships
+01:33:49.345 [main] DEBUG - Save part 'docProps/app.xml'
+01:33:49.345 [main] DEBUG - Save part 'docProps/core.xml'
+01:33:49.345 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:33:49.345 [main] DEBUG - Save part 'xl/styles.xml'
+01:33:49.345 [main] DEBUG - Save part 'xl/workbook.xml'
+01:33:49.355 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:34:09.523 [main] INFO  - heading to info page
+01:34:40.301 [main] INFO  - public contact info saved
+01:34:40.306 [main] INFO  - attachment uploaded
+01:34:43.306 [main] INFO  - public contact info saved
+01:34:44.155 [main] INFO  - report file created
+01:34:57.458 [main] INFO  - LOGIN PAGE
+01:34:57.458 [main] INFO  - ENTER THE USERNAME AND PASSWORD THAT ARE SHOWN ON THE SCREEN 
+01:34:57.458 [main] INFO  - LOGIN SUCCESSFUL
+01:34:57.606 [main] DEBUG - Save core properties part
+01:34:57.606 [main] DEBUG - Save content types part
+01:34:57.615 [main] DEBUG - Save package relationships
+01:34:57.623 [main] DEBUG - Save part 'docProps/app.xml'
+01:34:57.623 [main] DEBUG - Save part 'docProps/core.xml'
+01:34:57.625 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:34:57.625 [main] DEBUG - Save part 'xl/styles.xml'
+01:34:57.629 [main] DEBUG - Save part 'xl/workbook.xml'
+01:34:57.635 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:34:57.637 [main] DEBUG - Save content types part
+01:34:57.639 [main] DEBUG - Save package relationships
+01:34:57.646 [main] DEBUG - Save part 'docProps/app.xml'
+01:34:57.646 [main] DEBUG - Save part 'docProps/core.xml'
+01:34:57.647 [main] DEBUG - Save part 'xl/sharedStrings.xml'
+01:34:57.647 [main] DEBUG - Save part 'xl/styles.xml'
+01:34:57.647 [main] DEBUG - Save part 'xl/workbook.xml'
+01:34:57.655 [main] DEBUG - Save part 'xl/worksheets/sheet1.xml'
+01:35:17.179 [main] INFO  - REDIRECTION TO PIM PAGE
+01:35:24.835 [main] INFO  - ADDING A NEW USER
+01:35:24.835 [main] INFO  - ADD A USERNAME AND PASSWORD  AND OTHER INFO LIKE EMPLOYEE FULL NAME
+01:35:24.835 [main] INFO  - USER ADDED
+01:36:36.440 [main] INFO  - MODIFIY HIS PERSONAL INFORMATION
+01:36:36.440 [main] INFO  - MODIFIY HIS PERSONAL INFORMATION SUCH AS DRIVING LICENSE AND BLOOD TYPE
+01:36:36.440 [main] INFO  - UPLOAD THE ATTACHMENT AND UPLOAD THE PROFILE PICTURE 
+01:36:36.440 [main] INFO  - INFO ADDED AND PICTURE UPDATED
+01:37:25.037 [main] INFO  - modifying user contact info
+01:37:25.038 [main] INFO  - modifying user contact info such as street postal and email and etc...
+01:37:25.038 [main] INFO  - seraching the added employee by id
+01:37:25.038 [main] INFO  - record found

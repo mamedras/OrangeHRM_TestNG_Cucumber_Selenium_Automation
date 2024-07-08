@@ -1,0 +1,96 @@
+19:35:52.292 [main] INFO  - Opening website
+19:35:59.891 [main] INFO  - opening the browser
+19:35:59.917 [main] INFO  - Type invalid credentials
+19:36:05.494 [main] INFO  - capture failed testcases
+19:36:05.612 [main] INFO  - opening a new window
+19:36:05.613 [main] INFO  - capture failed testcases
+19:36:10.962 [main] INFO  - Type valid credentials
+19:36:12.253 [main] INFO  - capture failed testcases
+19:36:12.255 [main] INFO  - we are on the dashboard
+19:36:12.257 [main] INFO  - capture failed testcases
+19:36:12.259 [main] INFO  - type ended
+19:36:13.069 [main] INFO  - report file created
+19:36:23.981 [main] INFO  - login dashboard
+19:36:28.018 [main] INFO  - capture failed testcases
+19:36:34.201 [main] INFO  - heading to info page
+19:36:34.202 [main] INFO  - capture failed testcases
+19:37:44.754 [main] INFO  - upload the file
+19:37:44.754 [main] INFO  - capture failed testcases
+19:37:57.343 [main] INFO  - upadte the profile picture
+19:37:57.343 [main] INFO  - capture failed testcases
+19:37:57.676 [main] INFO  - report file created
+19:38:02.615 [main] INFO  - browser opened
+19:38:03.325 [main] INFO  - username and password entered
+19:38:10.338 [main] INFO  - capture failed testcases
+19:38:30.647 [main] INFO  - heading to info page
+19:38:30.648 [main] INFO  - capture failed testcases
+19:38:59.476 [main] INFO  - public contact info saved
+19:38:59.477 [main] INFO  - capture failed testcases
+19:38:59.479 [main] INFO  - attachment uploaded
+19:39:02.445 [main] INFO  - public contact info saved
+19:39:02.445 [main] INFO  - capture failed testcases
+19:39:02.786 [main] INFO  - report file created
+19:39:08.097 [main] INFO  - LOGIN PAGE
+19:39:08.097 [main] INFO  - ENTER THE USERNAME AND PASSWORD THAT ARE SHOWN ON THE SCREEN 
+19:39:08.097 [main] INFO  - LOGIN SUCCESSFUL
+19:39:08.106 [main] INFO  - capture failed testcases
+19:39:26.574 [main] INFO  - REDIRECTION TO PIM PAGE
+19:39:26.574 [main] INFO  - capture failed testcases
+19:39:33.210 [main] INFO  - ADDING A NEW USER
+19:39:33.210 [main] INFO  - ADD A USERNAME AND PASSWORD  AND OTHER INFO LIKE EMPLOYEE FULL NAME
+19:39:33.210 [main] INFO  - USER ADDED
+19:39:33.210 [main] INFO  - capture failed testcases
+13:57:58.892 [main] INFO  - Opening website
+13:58:29.274 [main] INFO  - opening the browser
+13:58:29.298 [main] INFO  - Type invalid credentials
+13:58:30.019 [main] INFO  - capture failed testcases
+13:58:30.988 [main] INFO  - opening a new window
+13:58:30.988 [main] INFO  - capture failed testcases
+13:58:31.283 [main] INFO  - Type valid credentials
+13:58:32.545 [main] INFO  - capture failed testcases
+13:58:32.547 [main] INFO  - we are on the dashboard
+13:58:32.548 [main] INFO  - capture failed testcases
+13:58:32.550 [main] INFO  - type ended
+13:58:33.197 [main] INFO  - report file created
+13:58:41.446 [main] INFO  - login dashboard
+13:58:41.472 [main] INFO  - capture failed testcases
+13:58:47.758 [main] INFO  - heading to info page
+13:58:47.760 [main] INFO  - capture failed testcases
+13:58:53.551 [main] INFO  - modify the personal info
+13:58:53.652 [main] INFO  - capture failed testcases
+13:58:57.121 [main] INFO  - upload the file
+13:58:57.121 [main] INFO  - capture failed testcases
+13:59:00.143 [main] INFO  - upadte the profile picture
+13:59:00.144 [main] INFO  - capture failed testcases
+13:59:00.438 [main] INFO  - report file created
+13:59:08.007 [main] INFO  - browser opened
+13:59:08.718 [main] INFO  - username and password entered
+13:59:08.729 [main] INFO  - capture failed testcases
+13:59:11.649 [main] INFO  - heading to info page
+13:59:11.650 [main] INFO  - capture failed testcases
+13:59:14.831 [main] INFO  - public contact info saved
+13:59:14.832 [main] INFO  - capture failed testcases
+13:59:14.834 [main] INFO  - attachment uploaded
+13:59:17.756 [main] INFO  - public contact info saved
+13:59:17.758 [main] INFO  - capture failed testcases
+13:59:18.014 [main] INFO  - report file created
+13:59:26.879 [main] INFO  - LOGIN PAGE
+13:59:26.879 [main] INFO  - ENTER THE USERNAME AND PASSWORD THAT ARE SHOWN ON THE SCREEN 
+13:59:26.880 [main] INFO  - LOGIN SUCCESSFUL
+13:59:26.887 [main] INFO  - capture failed testcases
+13:59:29.316 [main] INFO  - REDIRECTION TO PIM PAGE
+13:59:29.317 [main] INFO  - capture failed testcases
+13:59:31.794 [main] INFO  - ADDING A NEW USER
+13:59:31.794 [main] INFO  - ADD A USERNAME AND PASSWORD  AND OTHER INFO LIKE EMPLOYEE FULL NAME
+13:59:31.794 [main] INFO  - USER ADDED
+13:59:31.796 [main] INFO  - capture failed testcases
+13:59:52.027 [main] INFO  - MODIFIY HIS PERSONAL INFORMATION
+13:59:52.027 [main] INFO  - MODIFIY HIS PERSONAL INFORMATION SUCH AS DRIVING LICENSE AND BLOOD TYPE
+13:59:52.027 [main] INFO  - UPLOAD THE ATTACHMENT AND UPLOAD THE PROFILE PICTURE 
+13:59:52.027 [main] INFO  - INFO ADDED AND PICTURE UPDATED
+13:59:52.027 [main] INFO  - capture failed testcases
+13:59:55.591 [main] INFO  - modifying user contact info
+13:59:55.591 [main] INFO  - modifying user contact info such as street postal and email and etc...
+13:59:55.591 [main] INFO  - seraching the added employee by id
+13:59:55.591 [main] INFO  - record found
+13:59:56.497 [main] INFO  - capture failed testcases

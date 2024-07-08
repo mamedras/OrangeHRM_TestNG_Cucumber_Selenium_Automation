@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [suits]" guice-stage="DEVELOPMENT">
+  <listeners>
+    <listener class-name="ORANGEHRM_TESTCASES.LOGIN_ORANGEHRM"/>
+    <listener class-name="ORANGEHRM_TESTCASES.INFO_EMP"/>
+    <listener class-name="ORANGEHRM_TESTCASES.CONTACT_EMP"/>
+    <listener class-name="ORANGEHRM_TESTCASES.NEW_USER"/>
+  </listeners>
+  <test thread-count="5" name="ORANGEHRM_TESTCASE(failed)">
+    <classes>
+      <class name="ORANGEHRM_TESTCASES.NEW_USER">
+        <methods>
+          <include name="pim_page"/>
+          <include name="use_new"/>
+          <include name="setup"/>
+          <include name="afterMethod"/>
+          <include name="s1"/>
+          <include name="login_newuser"/>
+          <include name="contact"/>
+          <include name="employeeInfo2"/>
+        </methods>
+      </class> <!-- ORANGEHRM_TESTCASES.NEW_USER -->
+      <class name="ORANGEHRM_TESTCASES.LOGIN_ORANGEHRM">
+        <methods>
+          <include name="tearDown"/>
+          <include name="afterMethod"/>
+          <include name="invalidcreeds"/>
+          <include name="beforetest"/>
+        </methods>
+      </class> <!-- ORANGEHRM_TESTCASES.LOGIN_ORANGEHRM -->
+      <class name="ORANGEHRM_TESTCASES.INFO_EMP">
+        <methods>
+          <include name="beforetest"/>
+          <include name="quit_browser"/>
+          <include name="afterMethod"/>
+          <include name="user_page"/>
+        </methods>
+      </class> <!-- ORANGEHRM_TESTCASES.INFO_EMP -->
+      <class name="ORANGEHRM_TESTCASES.CONTACT_EMP">
+        <methods>
+          <include name="employeeInfo2"/>
+          <include name="upload"/>
+          <include name="emp"/>
+          <include name="quit"/>
+          <include name="afterMethod"/>
+          <include name="setup"/>
+          <include name="emp_contact"/>
+        </methods>
+      </class> <!-- ORANGEHRM_TESTCASES.CONTACT_EMP -->
+    </classes>
+  </test> <!-- ORANGEHRM_TESTCASE(failed) -->
+</suite> <!-- Failed suite [suits] -->

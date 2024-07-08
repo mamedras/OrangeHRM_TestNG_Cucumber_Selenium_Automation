@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"
+        ><suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C://Users//asus//Desktop//java practice//ORANGEHRM_PROJECTQA//src//main//java//TEST_DOCUMENTATION"/>
+        <test name="ORANGEHRM_TESTCASE">
+        <classes>
+            <class name ="ORANGEHRM_TESTCASES.LOGIN_ORANGEHRM"/>
+            <class name ="ORANGEHRM_TESTCASES.INFO_EMP"/>
+            <class name ="ORANGEHRM_TESTCASES.CONTACT_EMP"/>
+            <class name ="ORANGEHRM_TESTCASES.NEW_USER"/>
+
+        </classes>
+    </test>
+</suite>

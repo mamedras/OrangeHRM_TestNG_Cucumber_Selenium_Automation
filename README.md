@@ -1,12 +1,12 @@
 # OrangeHRM Automation QA Project
 The testing type for the OrangeHRM Automation QA Project involves several methodologies and frameworks, primarily focusing on Behavior-Driven Development (BDD), Test-Driven Development (TDD), and functional testing. Here's a breakdown based on the technologies and approaches mentioned:
-Behavior-Driven Development (BDD) with Cucumber
+Behavior-Driven Development (BDD) with Cucumber:
 Cucumber is a BDD tool that allows developers to write acceptance tests in plain text using Gherkin syntax. This approach makes the tests easily understandable by both technical and non-technical stakeholders, facilitating communication and collaboration during the development process.
-Test-Driven Development (TDD) with TestNG
-TestNG is a testing framework inspired by JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use. While TestNG itself does not enforce TDD, it supports the practice by allowing developers to write tests before implementing the functionality they test. This ensures that every piece of code has corresponding tests, promoting a robust and reliable codebase .
-Functional Testing with Selenium WebDriver
+Test-Driven Development (TDD) with TestNG:
+TestNG is a testing framework inspired by JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use. While TestNG itself does not enforce TDD, it supports the practice by allowing developers to write tests before implementing the functionality they test. This ensures that every piece of code has corresponding tests, promoting a robust and reliable codebase.
+Functional Testing with Selenium WebDriver:
 Selenium WebDriver is a collection of open-source APIs which are used to automate the testing of a web application. It allows for simulating user interactions with the web application, such as clicking buttons, filling out forms, and navigating through pages. This form of testing is crucial for validating the functionality of the web application against the expected outcomes 1.
-Integration Testing
+Integration Testing:
 The project also involves integration testing, where individual units are combined and tested as a group. This is evident in the scenario where different functionalities like logging in, creating and modifying employee records, and testing the functioning of different modules are automated. This ensures that the components of the system work together as expected 1.
 Reporting with Extent Reports and Log4j
 Extent Reports are used for generating detailed HTML reports of the test execution, including pass/fail status, screenshots, and logs. This aids in analyzing the test results and identifying areas for improvement. Log4j is utilized for logging trace information, which is essential for debugging and monitoring the application's behavior during testing 1.

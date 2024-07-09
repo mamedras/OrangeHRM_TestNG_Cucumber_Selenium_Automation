@@ -1,4 +1,4 @@
-# 1 OrangeHRM Automation QA Project
+# OrangeHRM Automation QA Project
 The testing type for the OrangeHRM Automation QA Project involves several methodologies and frameworks, primarily focusing on Behavior-Driven Development (BDD), Test-Driven Development (TDD), and functional testing. Here's a breakdown based on the technologies and approaches mentioned:
 ##  Behavior-Driven Development (BDD) with Cucumber:
 Cucumber is a BDD tool that allows developers to write acceptance tests in plain text using Gherkin syntax. This approach makes the tests easily understandable by both technical and non-technical stakeholders, facilitating communication and collaboration during the development process.
@@ -11,7 +11,7 @@ The project also involves integration testing, where individual units are combin
 Reporting with Extent Reports and Log4j
 Extent Reports are used for generating detailed HTML reports of the test execution, including pass/fail status, screenshots, and logs. This aids in analyzing the test results and identifying areas for improvement. Log4j is utilized for logging trace information, which is essential for debugging and monitoring the application's behavior during testing 1.
 In summary, the OrangeHRM Automation QA Project employs a combination of BDD, TDD, functional testing, and integration testing methodologies, leveraging tools like Cucumber, TestNG, Selenium WebDriver, Extent Reports, and Log4j. This comprehensive approach ensures thorough validation of the application's features and functionalities, contributing to the overall quality assurance of the system.
-# 2 Technologies Used
+# Technologies Used
 We utilize the following technologies in our project:
 - **POM (Page Object Model Pattern)**: Organizes web elements and actions for efficient test maintenance.
 - **TestNG**: Supports Test-Driven Development (TDD) by structuring test suites and executing tests.
@@ -22,11 +22,11 @@ We utilize the following technologies in our project:
 - **Apache POI**: Handles CSV file operations for data storage and manipulation.
 - **Maven**: Manages project dependencies and builds.
 
-# 3 Requirements
+# Requirements
 
 Before starting, make sure you have the latest version of Java installed on your computer.
 
-# 4 Automation QA Steps
+# Automation QA Steps
 
 Follow these steps to perform automated QA testing on the OrangeHRM application:
 
@@ -42,7 +42,7 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 10. Go to the employee list, type the new employee's ID, and press Enter.
 11. After locating the record, log out as admin.
 
-# 5 FAILED TEST CASES SCREENSHOT
+# FAILED TEST CASES SCREENSHOT
 1. ADD A NEW USER LINK:![adduser](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/bb86fa52-8b3b-4f6a-ba68-6163b8b34678)
 
 2. MODIFY EMPLOYEE INFO LINK:![info](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/5fc03d87-8eff-4d73-9d3c-b574c90edf97)
@@ -52,7 +52,7 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 
 4. LOGIN INTERFACE V2 LINK:![screenshotinfo](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/0d736541-b379-4884-846b-e9af3bd66632)
  
-# 6 manual test case 
+# manual test case 
 [ORANGEHRM_TESTCASE_AUTOMATION.xlsx] https://docs.google.com/spreadsheets/d/1w15Q6GqJDq8cq4sfOElV3Hoyeg-l-pDbHlytAd862z8/edit#gid=0
 
 # Conclusion

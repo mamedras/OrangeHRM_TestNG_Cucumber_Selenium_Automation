@@ -49,7 +49,7 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 
 3. LOGIN INTERFACE V1 LINK:![login](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/441b365b-9979-4a7b-b133-0eb3dff867fa)
 
-4. LOGIN INTERFACE V2 LINK:![screenshotinfo](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/0d736541-b379-4884-846b-e9af3bd66632) 
+4. LOGIN INTERFACE V2 LINK:![screenshotlogin](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/7c6c044d-72b8-424a-8cd0-87cc2df81a5e)
 
 # manual test case 
 [ORANGEHRM_TESTCASE_AUTOMATION.xlsx] https://docs.google.com/spreadsheets/d/1w15Q6GqJDq8cq4sfOElV3Hoyeg-l-pDbHlytAd862z8/edit#gid=0

@@ -7,9 +7,9 @@ TestNG is a testing framework inspired by JUnit and NUnit introducing some new f
 Functional Testing with Selenium WebDriver:
 Selenium WebDriver is a collection of open-source APIs that are used to automate the testing of a web application. It allows for simulating user interactions with the web application, such as clicking buttons, filling out forms, and navigating through pages. This form of testing is crucial for validating the functionality of the web application against the expected outcomes.
 ##  Integration Testing:
-The project also involves integration testing, where individual units are combined and tested as a group. This is evident in the scenario where different functionalities like logging in, creating and modifying employee records, and testing the functioning of different modules are automated. This ensures that the components of the system work together as expected 1.
+The project also involves integration testing, where individual units are combined and tested as a group. This is evident in the scenario where different functionalities like logging in, creating and modifying employee records, and testing the functioning of different modules are automated. This ensures that the components of the system work together as expected.
 ## Reporting with Extent Reports and Log4j:
-Extent Reports are used for generating detailed HTML reports of the test execution, including pass/fail status, screenshots, and logs. This aids in analyzing the test results and identifying areas for improvement. Log4j is utilized for logging trace information, which is essential for debugging and monitoring the application's behavior during testing 1.
+Extent Reports are used for generating detailed HTML reports of the test execution, including pass/fail status, screenshots, and logs. This aids in analyzing the test results and identifying areas for improvement. Log4j is utilized for logging trace information, which is essential for debugging and monitoring the application's behavior during testing.
 In summary, the OrangeHRM Automation QA Project employs a combination of BDD, TDD, functional testing, and integration testing methodologies, leveraging tools like Cucumber, TestNG, Selenium WebDriver, Extent Reports, and Log4j. This comprehensive approach ensures thorough validation of the application's features and functionalities, contributing to the overall quality assurance of the system.
 # Technologies Used
 We utilize the following technologies in our project:
@@ -49,9 +49,8 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 
 3. LOGIN INTERFACE V1 LINK:![login](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/441b365b-9979-4a7b-b133-0eb3dff867fa)
 
+4. LOGIN INTERFACE V2 LINK:![screenshotinfo](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/0d736541-b379-4884-846b-e9af3bd66632) 
 
-4. LOGIN INTERFACE V2 LINK:![screenshotinfo](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/0d736541-b379-4884-846b-e9af3bd66632)
- 
 # manual test case 
 [ORANGEHRM_TESTCASE_AUTOMATION.xlsx] https://docs.google.com/spreadsheets/d/1w15Q6GqJDq8cq4sfOElV3Hoyeg-l-pDbHlytAd862z8/edit#gid=0
 

@@ -1,16 +1,16 @@
 # OrangeHRM Automation QA Framework
 The OrangeHRM Automation QA Project focuses on automating acceptance and integration testing for the OrangeHRM web application. By leveraging Behavior-Driven Development (BDD) with Cucumber and Test-Driven Development (TDD) with TestNG, the project ensures the reliability, scalability, and seamless functionality of the platform. The automation tests streamline key workflows such as user authentication, employee management, and administrative operations, reducing manual effort and delivering high-quality outcomes.
 # Key Features
-- **Functional Testing with Selenium WebDriver**
+- **Functional Testing with Selenium WebDriver:**
 Automates critical workflows, including user interactions and system validations, to ensure application reliability.
 
-- **Behavior-Driven Development (BDD)**
+- **Behavior-Driven Development (BDD):**
 Implements Cucumber and Gherkin syntax to create human-readable test scenarios, fostering collaboration among stakeholders.
 
-- **Test-Driven Development (TDD)**
+- **Test-Driven Development (TDD):**
 Adopts TDD practices with TestNG for robust unit and integration testing, ensuring a high-quality codebase.
 
-- **Comprehensive Reporting and Logging**
+- **Comprehensive Reporting and Logging:**
 Generates detailed test reports with Extent Reports and leverages Log4j for effective debugging and monitoring.
 # Technologies Used
 We utilize the following technologies in our project:
@@ -48,14 +48,14 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 2. Clone this repository.
 3. Install Maven and use it to download the project dependencies: mvn install.
 4. Update configuration files with required data (e.g., credentials, environment)
-# FAILED TEST CASES SCREENSHOT
-1. ADD A NEW USER LINK:![adduser](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/bb86fa52-8b3b-4f6a-ba68-6163b8b34678)
+# Failed Test Cases Screenshot
+1. Add new user:![adduser](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/bb86fa52-8b3b-4f6a-ba68-6163b8b34678)
 
-2. MODIFY EMPLOYEE INFO LINK:![info](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/5fc03d87-8eff-4d73-9d3c-b574c90edf97)
+2. Modify the employee`s info:![info](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/5fc03d87-8eff-4d73-9d3c-b574c90edf97)
 
-3. LOGIN INTERFACE V1 LINK:![login](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/441b365b-9979-4a7b-b133-0eb3dff867fa)
+3. Login screenshot 1:![login](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/441b365b-9979-4a7b-b133-0eb3dff867fa)
 
-4. LOGIN INTERFACE V2 LINK:![screenshotlogin](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/7c6c044d-72b8-424a-8cd0-87cc2df81a5e)
+4. Login screenshot 2:![screenshotlogin](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/7c6c044d-72b8-424a-8cd0-87cc2df81a5e)
 
 # manual test case 
 [ORANGEHRM_TESTCASE_AUTOMATION.xlsx] https://docs.google.com/spreadsheets/d/1w15Q6GqJDq8cq4sfOElV3Hoyeg-l-pDbHlytAd862z8/edit#gid=0

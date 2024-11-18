@@ -1,22 +1,17 @@
-# OrangeHRM Automation QA Project
-The testing type for the OrangeHRM Automation QA Project involves several methodologies and frameworks, primarily focusing on Behavior-Driven Development (BDD), Test-Driven Development (TDD), and functional testing. Here's a breakdown based on the technologies and approaches mentioned:
-##  Behavior-Driven Development (BDD) with Cucumber:
-Cucumber is a BDD tool that allows developers to write acceptance tests in plain text using Gherkin syntax. This approach makes the tests easily understandable by both technical and non-technical stakeholders, facilitating communication and collaboration during the development process.
-##  Test-Driven Development (TDD) with TestNG:
-TestNG is a testing framework inspired by JUnit and NUnit introducing some new functionalities that make it more powerful and easier to use. While TestNG itself does not enforce TDD, it supports the practice by allowing developers to write tests before implementing the functionality they test. This ensures that every piece of code has corresponding tests, promoting a robust and reliable codebase.
-Functional Testing with Selenium WebDriver:
-Selenium WebDriver is a collection of open-source APIs that are used to automate the testing of a web application. It allows for simulating user interactions with the web application, such as clicking buttons, filling out forms, and navigating through pages. This form of testing is crucial for validating the functionality of the web application against the expected outcomes.
-##  Integration Testing:
-The project also involves integration testing, where individual units are combined and tested as a group. This is evident in the scenario where different functionalities like logging in, creating and modifying employee records, and testing the functioning of different modules are automated. This ensures that the components of the system work together as expected.
-## Reporting with Extent Reports and Log4j:
-Extent Reports are used for generating detailed HTML reports of the test execution, including pass/fail status, screenshots, and logs. This aids in analyzing the test results and identifying areas for improvement. Log4j is utilized for logging trace information, which is essential for debugging and monitoring the application's behavior during testing.
-In summary, the OrangeHRM Automation QA Project employs a combination of BDD, TDD, functional testing, and integration testing methodologies, leveraging tools like Cucumber, TestNG, Selenium WebDriver, Extent Reports, and Log4j. This comprehensive approach ensures thorough validation of the application's features and functionalities, contributing to the overall quality assurance of the system.
+# OrangeHRM Automation QA Framework
+The OrangeHRM Automation QA Project focuses on automating acceptance and integration testing for the OrangeHRM web application. By leveraging Behavior-Driven Development (BDD) with Cucumber and Test-Driven Development (TDD) with TestNG, the project ensures the reliability, scalability, and seamless functionality of the platform. The automation tests streamline key workflows such as user authentication, employee management, and administrative operations, reducing manual effort and delivering high-quality outcomes.
+# Key Features
+Functional testing of critical workflows using Selenium WebDriver.
+BDD implementation with Cucumber and Gherkin syntax for human-readable test scenarios.
+TDD adoption to ensure robust unit and integration testing with TestNG.
+Detailed test reporting using Extent Reports and logging with Log4j.
 # Technologies Used
 We utilize the following technologies in our project:
+- **Java**: Core programming language utilizing OOP principles.
 - **POM (Page Object Model Pattern)**: Organizes web elements and actions for efficient test maintenance.
 - **TestNG**: Supports Test-Driven Development (TDD) by structuring test suites and executing tests.
 - **Cucumber BDD with Gherkin Syntax**: Implements Behavior-Driven Development (BDD) for clear, human-readable tests.
-- **Selenium Web Automation Framework**: Automates web browsers for end-to-end testing.
+- **Selenium Webdriver**: Automates web browsers for end-to-end testing.
 - **Extent Report**: Generates detailed test reports for easy analysis.
 - **Log4j**: Creates trace log files for debugging and monitoring.
 - **Apache POI**: Handles CSV file operations for data storage and manipulation.
@@ -41,7 +36,11 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 9. Add a new employee with a user account, add their information and contact details, and then save the changes.
 10. Go to the employee list, type the new employee's ID, and press Enter.
 11. After locating the record, log out as admin.
-
+# Project Setup
+1. Ensure Java is installed on your machine.
+2. Clone this repository.
+3. Install Maven and use it to download the project dependencies: mvn install.
+4. Update configuration files with required data (e.g., credentials, environment)
 # FAILED TEST CASES SCREENSHOT
 1. ADD A NEW USER LINK:![adduser](https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation/assets/71017688/bb86fa52-8b3b-4f6a-ba68-6163b8b34678)
 
@@ -56,6 +55,7 @@ Follow these steps to perform automated QA testing on the OrangeHRM application:
 
 # Conclusion
 
-This project exemplifies the application of modern testing methodologies and tools to ensure the reliability and functionality of the OrangeHRM application. By automating QA processes, we aim to streamline testing efforts and enhance the overall quality of the application.
+This project automates testing for key OrangeHRM workflows, ensuring high reliability and a reduced manual testing effort. It demonstrates effective use of BDD and TDD methodologies, combined with detailed reporting and robust test automation.
+
 
 

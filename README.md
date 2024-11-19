@@ -24,10 +24,6 @@ We utilize the following technologies in our project:
 - **Apache POI**: Handles CSV file operations for data storage and manipulation.
 - **Maven**: Manages project dependencies and builds.
 
-# Requirements
-
-Before starting, make sure you have the latest version of Java installed on your computer.
-
 # Automation QA Steps
 
 Follow these steps to perform automated QA testing on the OrangeHRM application:

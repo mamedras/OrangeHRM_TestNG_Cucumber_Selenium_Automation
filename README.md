@@ -57,9 +57,9 @@ mvn install
 ```
 # 4️⃣ Configuration
 Update the configuration files with the necessary data such as:
-**Credentials** (username, password)
-**Environment details** (staging/production URL)
-5️⃣ Running the Tests
+- **Credentials:** (username, password)
+- **Environment details:** (staging/production URL)
+# 5️⃣ Running the Tests
 You can run the tests using Maven or directly from the IDE:
 
 ```sh

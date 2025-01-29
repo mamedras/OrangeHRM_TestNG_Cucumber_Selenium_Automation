@@ -46,10 +46,10 @@ Ensure the following are installed on your machine:
 - **Java** (JDK 8 or later)
 - **Maven** (for project dependency management)
 # 2️⃣ Clone the Repository
-``sh
+```sh
 git clone https://github.com/mamedras/OrangeHRM_TestNG_Cucumber_Selenium_Automation.git
 cd OrangeHRM_TestNG_Cucumber_Selenium_Automation
-``
+```
 # 3️⃣ Install Dependencies
 Run the following Maven command to install required dependencies:
 ```sh

@@ -1,4 +1,4 @@
-🧑‍💻 OrangeHRM Automation QA Framework
+# 🧑‍💻 OrangeHRM Automation QA Framework
 # 📌 Project Overview
 The OrangeHRM Automation QA Project focuses on automating acceptance and integration testing for the OrangeHRM web application. By leveraging Behavior-Driven Development (BDD) with Cucumber and Test-Driven Development (TDD) with TestNG, the project ensures the reliability, scalability, and seamless functionality of the platform. The automation tests streamline key workflows such as user authentication, employee management, and administrative operations, reducing manual effort and delivering high-quality outcomes.
 # 🌟 Key Features
